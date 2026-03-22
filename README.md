@@ -27,5 +27,3 @@ This project focuses on smooth animations, modern UI, and clean layout structure
 - Locomotive Scroll (if you used it)
 
 ---
-
-## 📂 Project Structure
