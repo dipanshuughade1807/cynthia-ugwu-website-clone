@@ -1,2 +1,31 @@
 # cynthia-ugwu-website-clone
-A frontend clone of Cynthia Ugwu's portfolio website built using HTML, CSS, and JavaScript with smooth animations and modern UI.
+# 🌐 Cynthia Ugwu Website Clone
+
+A frontend clone of Cynthia Ugwu's portfolio website built using HTML, CSS, and JavaScript.  
+This project focuses on smooth animations, modern UI, and clean layout structure.
+
+---
+
+## 🚀 Live Demo
+👉 https://dipanshuughade1807.github.io/cynthia-ugwu-website-clone/
+
+---
+
+## 📌 Features
+- Smooth scrolling effects
+- Clean and modern UI
+- Responsive design
+- Interactive animations
+- Custom cursor (if added)
+
+---
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Locomotive Scroll (if you used it)
+
+---
+
+## 📂 Project Structure
