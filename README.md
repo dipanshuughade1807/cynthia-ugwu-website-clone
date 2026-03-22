@@ -16,7 +16,6 @@ This project focuses on smooth animations, modern UI, and clean layout structure
 - Clean and modern UI
 - Responsive design
 - Interactive animations
-- Custom cursor (if added)
 
 ---
 
@@ -24,6 +23,6 @@ This project focuses on smooth animations, modern UI, and clean layout structure
 - HTML5
 - CSS3
 - JavaScript
-- Locomotive Scroll (if you used it)
+- Locomotive Scroll
 
 ---
